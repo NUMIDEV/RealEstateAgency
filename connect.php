@@ -1,7 +1,7 @@
 <?php 
 
 
-$con=new mysqli("localhost","root","","realestateagency");
+$con=new mysqli("localhost","rootUser","password","dbName");
 
 
  ?>
